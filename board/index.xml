@@ -5,6 +5,7 @@
     <link>http://sps-yale.github.io/board/</link>
     <description>Recent content in Board on Yale Society of Physics Students</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://sps-yale.github.io/board/index.xml" rel="self" type="application/rss+xml" />
     
@@ -12,7 +13,7 @@
     <item>
       <title>Past Boards</title>
       <link>http://sps-yale.github.io/board/past/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>http://sps-yale.github.io/board/past/</guid>
       <description>img {text-align: center;}* {box-sizing: border-box;}.column {float: left;width: 50%;padding: 50px;}.row:after {content: &#34;&#34;;display: table;clear: both;}@media screen and (max-width: 600px) {.column {width: 100%;}}2019-2020Co-Presidents (Spring 2020)Shoumik Chowdhury (SY 2021)
@@ -24,7 +25,7 @@ Board MembersShantanu Jha (SY 2021)</description>
     <item>
       <title>Who We Are</title>
       <link>http://sps-yale.github.io/board/current/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>http://sps-yale.github.io/board/current/</guid>
       <description>img { text-align: center; } * { box-sizing: border-box; } .column { float: left; width: 50%; padding: 50px; } .row:after { content: &#34;&#34;; display: table; clear: both; } @media screen and (max-width: 600px) { .column { width: 100%; } }  Co-Presidents (Fall 2020) Shoumik Chowdhury (SY 2021) Shoumik is a senior Mathematics and Physics major in Saybrook. He is broadly interested in quantum information science, and works on both applied theoretical and experimental research.</description>

@@ -4,10 +4,22 @@
   
   <url>
     <loc>http://sps-yale.github.io/</loc>
+    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://sps-yale.github.io/board/</loc>
+    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sps-yale.github.io/board/past/</loc>
+    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sps-yale.github.io/board/current/</loc>
+    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,15 +27,7 @@
   </url>
   
   <url>
-    <loc>http://sps-yale.github.io/board/past/</loc>
-  </url>
-  
-  <url>
     <loc>http://sps-yale.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://sps-yale.github.io/board/current/</loc>
   </url>
   
 </urlset>
